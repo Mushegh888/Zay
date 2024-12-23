@@ -1,0 +1,20 @@
+@media (max-width: 520px) {
+	.menu,.mainShop,.hideMenu,.product,.footer,.basketGrid,.services,.about,.map,.form,.categories{
+		padding: 10px 20px;
+	}
+	.content{
+		padding: 10px 30px;
+	}
+	.next{
+		padding: 0px 0px 0px 5px;
+	}
+	.per{
+		padding: 0px 5px 0px 0px;
+	}
+	.next i,.per i{
+		font-size: 30px;
+	}
+	.products{
+		padding: 10px 20px 150px;
+	}
+}
